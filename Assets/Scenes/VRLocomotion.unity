@@ -185,7 +185,7 @@ PrefabInstance:
     - target: {fileID: 9500000, guid: ff0676c8d91f84f49b766d604828e420, type: 3}
       propertyPath: m_Controller
       value: 
-      objectReference: {fileID: 9100000, guid: f86bc9f699d9a554f84c6253f647e35e, type: 2}
+      objectReference: {fileID: 9100000, guid: b537535e2fb87d044a991b1f647d6d29, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ff0676c8d91f84f49b766d604828e420, type: 3}
 --- !u!4 &179410985 stripped
@@ -455,8 +455,8 @@ MonoBehaviour:
   m_EnableInputActions: 1
   m_ModelPrefab: {fileID: 0}
   m_ModelParent: {fileID: 0}
-  m_Model: {fileID: 179410985}
-  m_AnimateModel: 1
+  m_Model: {fileID: 0}
+  m_AnimateModel: 0
   m_ModelSelectTransition: onSelect
   m_ModelDeSelectTransition: onDeselect
   m_PositionAction:
@@ -730,7 +730,7 @@ PrefabInstance:
     - target: {fileID: 9500000, guid: ff0676c8d91f84f49b766d604828e420, type: 3}
       propertyPath: m_Controller
       value: 
-      objectReference: {fileID: 9100000, guid: f86bc9f699d9a554f84c6253f647e35e, type: 2}
+      objectReference: {fileID: 9100000, guid: b537535e2fb87d044a991b1f647d6d29, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ff0676c8d91f84f49b766d604828e420, type: 3}
 --- !u!4 &570030540 stripped
@@ -970,8 +970,8 @@ MonoBehaviour:
   m_EnableInputActions: 1
   m_ModelPrefab: {fileID: 0}
   m_ModelParent: {fileID: 0}
-  m_Model: {fileID: 570030540}
-  m_AnimateModel: 1
+  m_Model: {fileID: 0}
+  m_AnimateModel: 0
   m_ModelSelectTransition: onSelect
   m_ModelDeSelectTransition: onDeselect
   m_PositionAction:
